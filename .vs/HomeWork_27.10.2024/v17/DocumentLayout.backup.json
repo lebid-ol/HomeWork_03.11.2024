@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_03.11.2024\\homework_27.10.2024\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_03.11.2024\\homework_27.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|d:\\\u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\progects_c#\\homework_03.11.2024\\homework_27.10.2024\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FA233E4-EA66-4098-93C4-E7E9B1B7C91B}|HomeWork_27.10.2024\\HomeWork_27.10.2024.csproj|solutionrelative:homework_27.10.2024\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\Extensions.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Extensions.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\Extensions.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Extensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:23:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\IVehicle.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\IVehicle.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\IVehicle.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\IVehicle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:35:09.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork_27.10.2024\\Program.cs",
+              "ToolTip": "D:\\\u041E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\\Progects_C#\\HomeWork_03.11.2024\\HomeWork_27.10.2024\\Program.cs",
+              "RelativeToolTip": "HomeWork_27.10.2024\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:20:23.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
